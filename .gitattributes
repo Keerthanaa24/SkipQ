@@ -1,0 +1,10 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Specific file types
+*.ts text
+*.tsx text
+*.json text
+*.css text
+*.html text
+*.md text
