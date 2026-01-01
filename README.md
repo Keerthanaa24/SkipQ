@@ -32,6 +32,10 @@ SkipQ digitizes the canteen workflow through a centralized web-based system:
 
 This approach reduces congestion and improves coordination between students and staff.
 
+## View website
+
+https://skipq-5e224.web.app/
+
 ---
 
 ## Core Features
